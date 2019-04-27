@@ -4,7 +4,7 @@
 #
 Name     : R-mlmRev
 Version  : 1.0.7
-Release  : 9
+Release  : 10
 URL      : https://cran.r-project.org/src/contrib/mlmRev_1.0-7.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/mlmRev_1.0-7.tar.gz
 Summary  : Examples from Multilevel Modelling Software Review
